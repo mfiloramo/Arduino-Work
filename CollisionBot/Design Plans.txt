@@ -1,0 +1,18 @@
+1. Two buttons to toggle on and off the functionality of the bot. How to set up?
+
+2. A red and green LED light. The green LED turns on when the bot is on. The red LED turns on
+   when the collision sensor module detects an impact. Switch 5V to PWM wiring?
+
+*4. When the bot is on, the two DC motors controlling the rear wheels will rotate forwards.
+
+5. When a collision has been detected, three things will happen:
+	- The two DC motors will turn off.
+	- The red LED will turn on.
+	- The active buzzer will turn on.
+
+6. A GY-521 module will be actively monitoring acceleration and angle at all times. What use?
+
+7. An HC-501 module will be monitoring distance in front of the bot at all times. What use?
+
+8. A 9V battery will be mounted in the back and will provide power to the Arduino MEGA and 
+   the power supply module. How to provide power to the Power Supply Module?
